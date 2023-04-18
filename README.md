@@ -1,5 +1,6 @@
 # Tank_game
 Project created a few years ago.
+It is game for 2 persons used 1 keyboard
 
 
 
