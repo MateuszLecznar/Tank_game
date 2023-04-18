@@ -1,0 +1,3 @@
+/media/mateusz/Data/C++_projects/Game/Tank_game/cmake-build-debug/CMakeFiles/Tank_game.dir
+/media/mateusz/Data/C++_projects/Game/Tank_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/mateusz/Data/C++_projects/Game/Tank_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
